@@ -2,7 +2,6 @@ name: Smasher
 version: ${project.version}
 main: de.kuerbisskraft.smasher.Smasher
 api-version: 1.16
-prefix: smasher
 authors: [ der_kuerbiss ]
 description: Anti Cheat
 website: https://smasher.kuerbisskraft.de
